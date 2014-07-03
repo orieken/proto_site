@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+h1 {
+    text-transform: uppercase;
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: aquamarine;
+
+}
+
+body {
+        background-color: black
+}
